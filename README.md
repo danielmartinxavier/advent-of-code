@@ -37,3 +37,21 @@ Each folder also includes the original puzzle input (`input*.txt`) and example d
    ```
 
 By default each script will print the result for the provided sample input followed by the answer for the full puzzle input. To reuse the solvers with different data, replace the content of the `input` files or modify the file paths in the `__main__` block at the bottom of each script.
+
+## Results (8 integers)
+
+**Day 1**
+- Part 1: 1320851  
+- Part 2: 26859182  
+
+**Day 2**
+- Part 1: 526
+- Part 2: 566
+
+**Day 3**
+- Part 1: 159892596
+- Part 2: 92626942
+
+**Day 4**
+- Part 1: 2633
+- Part 2: 1936
